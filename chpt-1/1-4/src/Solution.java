@@ -1,8 +1,7 @@
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
+// Given a string write a function to check if it is a permutation of a palindrome.
 public class Solution {
     public static void main(String [] args)
     {
